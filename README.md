@@ -13,6 +13,9 @@ Using JGame Studio, you can develop your projects. To run code in your game, you
 ### Running Games
 In order to play your games, run the Main.java file with your Java installation. No dependencies are required as the engine code itself is included with every project, making them portable and easy to run.
 
+### Creating Games Without JGame Studio
+It is entirely possible to create games without the use of JGame Studio as the engine itself is completely separate from the editor, however it comes with a few drawbacks. Not using Studio to manage and clone your JGame installation to projects means that you need to manually copy the JGame package to your project folder every time you start a new project. Even though Studio is still very new and may be a bit buggy at times, we definitely recommend using it to manage your projects and installations as it makes creating games much easier.
+
 # Other Notes & Warnings
 What becomes obvious by just looking at the file structure is that this is not how a traditional java project would be structured. While I would love to have a good explanation for this, the truth is that I started this project with almost no knowledge about Java and have kept the file structure since.
 Not to worry: the file structure **will** be refacted to match java conventions.
