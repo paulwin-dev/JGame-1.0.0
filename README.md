@@ -1,6 +1,8 @@
-<img width="593" height="153" alt="image" src="https://github.com/user-attachments/assets/220c30f0-2e0d-4470-bbde-c6e098b10319" />
+<div align="center">
+  <img width="593" height="153" alt="image" src="https://github.com/user-attachments/assets/220c30f0-2e0d-4470-bbde-c6e098b10319" />
 
-A lightweight java game engine created using the Java AWT library.
+  A lightweight java game engine created using the Java AWT library.
+</div>
 
 # Getting Started
 To get started, clone the repository to your local machine. Once that's done, you can run JGameStudio/JGameHub/JGameHub.java to start the hub application where you can manage your projects and JGame installations.
